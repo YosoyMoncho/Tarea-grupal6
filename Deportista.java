@@ -6,7 +6,7 @@ package com.mycompany.personaapp;
 
 /**
  *
- * @author JR_Baide Iscoa
+ * @author daniel vega
  */
 public class Deportista extends Persona {
     private String deporte;
